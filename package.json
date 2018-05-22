@@ -1,0 +1,25 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "3.5.3",
+    "define-property": "2.0.2",
+    "draft-convert": "2.1.2",
+    "draft-extend": "1.5.5",
+    "draft-js": "0.10.5",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "tachyons": "4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

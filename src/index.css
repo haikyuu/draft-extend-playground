@@ -1,0 +1,13 @@
+body {
+  padding: 4px;
+}
+.renderer {
+  border: 1px solid lightslategrey;
+  height: 150px;
+}
+.min-h4 {
+  min-height: 8rem;
+}
+.editor-container .public-DraftEditor-content {
+  min-height: 8rem;
+}
